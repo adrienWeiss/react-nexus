@@ -1,4 +1,5 @@
 {
+  "root": true,
   "ecmaFeatures": {
     "arrowFunctions": true,
     "binaryLiterals": false,
