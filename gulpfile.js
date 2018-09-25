@@ -5,5 +5,5 @@ require('babel-register')({
   presets: [path.resolve(__dirname, './config/babel/node/dev')],
   retainLines: true,
 });
-require('babel-polyfill');
+// require('babel-polyfill');
 require('./config/gulp');
